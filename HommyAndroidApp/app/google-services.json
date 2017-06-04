@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "132854994808",
+    "firebase_url": "https://hommyandroidapp.firebaseio.com",
+    "project_id": "hommyandroidapp",
+    "storage_bucket": "hommyandroidapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:132854994808:android:fbaf000d67db2b36",
+        "android_client_info": {
+          "package_name": "hommy.com.hommyapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "132854994808-6ov277ldira5etrq32ebokq9mfvufa05.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hommy.com.hommyapp",
+            "certificate_hash": "5f33ce4f681f3335a0e331a2c11b30b4a05e22b6"
+          }
+        },
+        {
+          "client_id": "132854994808-nj4s920el3rmakk0l55n574o95r7a24u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAP2wReDKLHJ6QMGq0NyMyhnfeE3ByZnrs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "132854994808-nj4s920el3rmakk0l55n574o95r7a24u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
